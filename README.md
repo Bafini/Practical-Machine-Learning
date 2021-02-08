@@ -6,7 +6,10 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 The goal of this project is to predict the manner in which they did the exercise. This is the `classe` variable in the training set.
 
-# Author: Pedro Fonseca
+##Author: Pedro Fonseca
+##Date: 08/02/2021
+
+
 
 ## Data description
 
