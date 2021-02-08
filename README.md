@@ -6,6 +6,8 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 The goal of this project is to predict the manner in which they did the exercise. This is the `classe` variable in the training set.
 
+# Author: Pedro Fonseca
+
 ## Data description
 
 The outcome variable is `classe`, a factor variable with 5 levels. For this data set, participants were asked to perform one set of 10 repetitions of the Unilateral Dumbbell Biceps Curl in 5 different fashions:
